@@ -1,7 +1,7 @@
 # *Super* Character Loader
 A sleek Roblox Studio plugin which inserts Roblox user characters into a place.
 
-![Plugin icon](https://www.github.com/LucasWolschick/SuperCharacterLoader/blob/master/icon.png)
+<img width="240" height="240" src="https://raw.githubusercontent.com/LucasWolschick/SuperCharacterLoader/main/icon.png" alt="Plugin icon">
 
 ## Why?
 Many reasons! I originally made this project to get myself some experience with the Roblox plugin API, and as a free, open source alternative to a popular paid plugin made by another user on the platform.
